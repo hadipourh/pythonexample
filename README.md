@@ -476,7 +476,7 @@ for pr in processes:
 ```python
 from multiprocessing import Pool
 from time import time
-# Geeting the number of cores
+# Getting the number of cores
 num_of_cores = cpu_count()
 
 # Constructing a random sequence
